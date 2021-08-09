@@ -5,7 +5,7 @@ import Search from './components/Search'
 import Results from './components/Results'
 import Popup from './components/Popup'
 
-function App() {
+function Appankit() {
   const [state, setState] = useState({
     s: "",
     results: [],
@@ -67,4 +67,4 @@ function App() {
   );
 }
 
-export default App
+export default Appankit
